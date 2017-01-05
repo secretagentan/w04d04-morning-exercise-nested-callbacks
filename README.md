@@ -1,5 +1,3 @@
-# w04d04-morning-exercise-nested-callbacks
-
 # WELCOME TO CALLBACK HELL(I was going to throw in a GIF, but will let to imagine what hell looks like)
 
 ## So what you will be creating is a never-ending cycle of callbacks. You have three text files, and js file. You need to 
